@@ -1,5 +1,5 @@
 # Decoding file names.
-Contains instances of GTSP (*.pcgtsp)
+Contains instances of CCP (*.dxf)
 
 Category - All example with precedence constraints (In each instance, all parts have precedence constraints):
 - p - Category (precedence constraints);
